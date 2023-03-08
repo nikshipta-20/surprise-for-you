@@ -1,0 +1,82 @@
+body{
+    margin: 0;
+    text-align: center;
+    background-color: pink;
+}
+
+.greet{
+    color: #FF597B;
+    margin-top: 120px;
+    font-family: 'Kaushan Script';
+    font-size: 100px;
+}
+
+.know-sthg{
+    font-family: 'Satisfy';
+    font-size: 30px;
+    color: #FFE3E1;
+}
+
+.btn {
+    margin-top: 20px;
+    background: #FFE3E1;
+    background-image: -webkit-linear-gradient(top, #FFE3E1, #FF597B);
+    background-image: -moz-linear-gradient(top, #FFE3E1, #FF597B);
+    background-image: -ms-linear-gradient(top, #FFE3E1, #FF597B);
+    background-image: -o-linear-gradient(top, #FFE3E1, #FF597B);
+    background-image: linear-gradient(to bottom, #FFE3E1, #FF597B);
+    -webkit-border-radius: 20;
+    -moz-border-radius: 20;
+    border-radius: 20px;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 15px 20px 15px 20px;
+    text-decoration: none;
+    border: none;
+  }
+  
+  .btn:hover {
+    background: #FFCACA;
+    background-image: -webkit-linear-gradient(top, #FFCACA, #FFE3E1);
+    background-image: -moz-linear-gradient(top, #FFCACA, #FFE3E1);
+    background-image: -ms-linear-gradient(top, #FFCACA, #FFE3E1);
+    background-image: -o-linear-gradient(top, #FFCACA, #FFE3E1);
+    background-image: linear-gradient(to bottom, #FFCACA, #FFE3E1);
+    text-decoration: none;
+    border: none;
+  }
+
+#yes-know{
+    margin-left: 0;
+    margin-right: 50px;
+    position: relative;
+    right: 40px;
+}
+
+.hate{
+    font-family: 'Mynerve', cursive;
+    color: white;
+}
+.background{
+    margin: 0;
+    border: 0;
+    background-color: black;
+    padding-bottom: 1000px;
+}
+
+.cry{
+    padding-top: 160px;
+}
+
+.say-sthg{
+    padding-top: 200px;
+    font-family: 'Kaushan Script';
+    font-size: 100px;
+    color: #F1D3B3;
+    border: #B99B6B;
+}
+
+.index2{
+    background-image: url("propose4.jpg");
+}
